@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm NeverEndingBox aka Dante.
+#- 🔭 I’m currently working on a website for an upcomming company that will work within Sweden.
+#- 🌱 I’m currently learning all kinds of thing within data and networking.
+#- 👯 I’m looking to collaborate on nothing right now but am open for requests.
+#-🤔 I’m looking for help with nothing at the moment.
+#- 💬 Ask me about anything you want. (no personal stuff though)
+#- 📫 How to reach me: you can reach me through my mail: neverendingbox14@gmail.com
+#- 😄 Pronouns: He/They
+#- ⚡ Fun fact: I love games especially Dark souls, Biomutant, Beat Saber, Mortal Kombat, <Clone drone in the danger zone and The backrooms.
 
 <!--
 **NeverEndingBox/NeverEndingBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
