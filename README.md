@@ -6,7 +6,7 @@
 - 💬 Ask me about anything you want. (no personal stuff though) <br>
 - 📫 How to reach me: you can reach me through my mail: neverendingbox14@gmail.com <br>
 - 😄 Pronouns: He/They <br>
-- ⚡ Fun fact: I love games especially Dark souls, Biomutant, Beat Saber, Mortal Kombat, <Clone drone in the danger zone and The backrooms. <br>
+- ⚡ Fun fact: I love games especially Dark souls, Biomutant, Beat Saber, Mortal Kombat, Clone drone in the danger zone, The backrooms and The forest. <br>
 
 <!--
 **NeverEndingBox/NeverEndingBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
