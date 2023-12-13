@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm NeverEndingBox.
-- 🔭 I’m currently working on a website for an upcomming company that will work within Sweden. <br>
+- 🔭 I’m currently working on nothing <br>
 - 🌱 I’m currently learning all kinds of thing within data and networking. <br>
 - 👯 I’m looking to collaborate on nothing right now but am open for requests. <br>
 - 🤔 I’m looking for help with nothing at the moment. <br>
