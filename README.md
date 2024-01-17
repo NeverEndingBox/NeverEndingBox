@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm NeverEndingBox.
 - 🌱 I’m currently learning networking and programming at polhemskolan. <br>
 - 💬 Ask me about anything you want. (no personal stuff though) <br>
-- 📫 How to reach me: you can reach me through my mail: neverendingbox14@gmail.com <br>
+- 📫 You can reach me through my mail: neverendingbox14@gmail.com <br>
 - 😄 Pronouns: He/They <br>
 - ⚡ Fun fact: I love games especially Dark souls, Biomutant, minecraft and Beat Saber<br>
 
